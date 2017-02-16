@@ -1,0 +1,55 @@
+body {
+  margin:0;
+  background-image: url(wallgamb.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cont {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(CalBoy.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+table {
+  height: 40%;
+  width: 57vh;
+  opacity: 1;
+  border: none
+}
+.pad {
+  opacity: 0;
+}
+.res {
+  opacity: 1;
+}
+input {
+  color:rgba(19, 56, 12, 0.8);
+  border: none;
+  height: 100%;
+  width: 80%;
+  font-size: 2em;
+}
+.consoleSpace {
+  border: none;
+  padding-bottom: 10%;
+  opacity: 1;
+}
+.console {
+  margin-left: 25%;
+  width: 50%;
+  padding-bottom: 20vh;
+  height: 100%;
+  background-color: transparent;
+
+  opacity: 1;
+}
+.btn {
+  margin-left: 10px;
+  border-radius: 50%;
+}
